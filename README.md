@@ -264,7 +264,3 @@ GROUP BY category;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
-
-### Stay Updated and Join the Community
-
-Thank you for your support, and I look forward to connecting with you!
